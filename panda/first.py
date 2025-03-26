@@ -16,3 +16,4 @@ print(cfs)
 print(temp_ser.head(3))
 print(temp_ser.info())
 print(temp_ser.describe())
+
