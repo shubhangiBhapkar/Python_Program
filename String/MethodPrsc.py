@@ -8,3 +8,6 @@ print(str.replace(" ","_"))
 
 # print
 print(str)
+
+# formated string
+print(f"I want to say that ,{ str } so plz dont hurt her.")
