@@ -9,3 +9,5 @@ list.append("ishu")
 list.pop(2)
 list.insert(1,"aarya")
 print(list)
+list[0] = "geeta"
+print(list)
